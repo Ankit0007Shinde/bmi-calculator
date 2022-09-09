@@ -1,0 +1,53 @@
+.background{
+    height: 500px;
+    width: 250px;
+    background-color: antiquewhite;
+    padding-top: 50px;
+    padding-left: 60px;
+    
+
+    
+
+}
+.boxheight{
+    height: 30px;
+    color: black;
+
+}
+.boxweight{
+    height: 30px;
+    position: relative;
+    top: 60px;
+    color: black;
+}
+.button{
+    position: relative;
+    top: 120px;
+    right: 120px;
+    background-color: rgb(185, 178, 163);
+    position: relative;
+    top: 110px;
+
+
+}
+.button:hover{
+    color: aliceblue;
+    
+}
+.result{
+    position: relative;
+    top: 150px;
+    right: 30px;
+}
+.fontw{
+    font-size: medium;
+    position: relative;
+    top: 30px;
+
+}
+.fonth{
+font-size: medium;
+position: relative;
+    top: 100px;
+
+}
